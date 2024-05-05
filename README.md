@@ -1,7 +1,7 @@
 # HirEx
 
 ## Overview
-HirEx is an advanced recruitment system built with React and Node.js. It incorporates artificial intelligence and computer vision technologies to revolutionize the hiring process. The system provides automated assessment techniques, including speech-to-text conversion, facial emotion recognition, and tone analysis, for objective evaluations of candidates. It also features a resume builder and a chatbot powered by OpenAI's ChatGPT-3 API for interactive support.
+HirEx is an advanced recruitment system built with React and Node.js. It incorporates artificial intelligence and computer vision technologies to revolutionize the hiring process. The system provides automated assessment techniques, including speech-to-text conversion, facial emotion recognition, and tone analysis, for objective evaluations of candidates. It also features a resume builder and a chatbot for interactive placement training support.
 
 ## Already Deployed
 The HirEx system has already been deployed and is accessible via the following link: [SmartHire](xyz). You can visit the deployed site to explore the features and functionalities of the system without having to set it up locally.
