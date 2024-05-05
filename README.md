@@ -67,8 +67,55 @@ To get started with Smart Hire, please follow the steps below:
 **InterviewGenerator**
 ![Screenshot](./Screenshot/InterviewGenerator.png)
 
-**abc**
-![Screenshot](./Screenshot/)
+**OrganizationProfile**
+![Screenshot](./Screenshot/OrganizationProfile.png)
 
-**abc**
+**OrganizationInterviewCreation**
+![Screenshot](./Screenshot/OrganizationInterviewCreation.png)
+
+**CandidateProfile**
+![Screenshot](./Screenshot/CandidateProfile.png)
+
+**CandidateInterviewSection**
+![Screenshot](./Screenshot/CandidateInterviewSection.png)
+
+**Actual Interview**
+![Screenshot](./Screenshot/Interview1.png)
+
+**EmotionDetection of the given interview**
+![Screenshot](./Screenshot/EmotionDetection.png)
+
+**ResultInterview**
+![Screenshot](./Screenshot/ResultInterview.png)
+
+**ResultInterview1**
+![Screenshot](./Screenshot/ResultInterview1.png)
+
+**Resume Analyzer**
+![Screenshot](./Screenshot/ResumeAnalyzer.png)
+
+**Resume Analyzer2**
+![Screenshot](./Screenshot/ResumeAnalyzer2.png)
+
+**Resume Analyzer3**
+![Screenshot](./Screenshot/ResumeAnalyzer3.png)
+
+**ResumeAnalyzer_Admin1**
+![Screenshot](./Screenshot/ResumeAnalyzer_Admin1.png)
+
+**ResumeAnalyzer_Admin2**
+![Screenshot](./Screenshot/ResumeAnalyzer_Admin2.png)
+
+**ResumeBuilder1**
+![Screenshot](./Screenshot/ResumeBuilder1.png)
+
+**ResumeBuilder2**
+![Screenshot](./Screenshot/ResumeBuilder2.png)
+
+**HirEx Chatbot**
+![Screenshot](./Screenshot/Chatbot.png)
+
+<!-- **abc**
 ![Screenshot](./Screenshot/)
+ -->
+
